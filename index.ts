@@ -2,7 +2,7 @@ const fs = require('fs');
 
 // DOMUSTO
 import DomustoLogger from 'domusto/src/domusto/DomustoLogger';
-import DomustoDevice from 'domusto/src/domusto/DomustoDevice';
+// import DomustoDevice from 'domusto/src/domusto/DomustoDevice';
 
 // INTERFACES
 import EventType from 'domusto/src/domusto/interfaces/events/EventType';
