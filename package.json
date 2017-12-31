@@ -1,0 +1,21 @@
+{
+  "name": "domusto-event-logger-txt",
+  "version": "1.0.0",
+  "description": "DOMUSTO plugin to log events in log folder in txt format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "domusto"
+  ],
+  "author": "Bas van Dijk",
+  "license": "copyright",
+  "dependencies": {
+    "domusto": "github:basvdijk/domusto-server",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^8.5.2"
+  }
+}
